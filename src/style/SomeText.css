@@ -1,0 +1,64 @@
+.containerSomeText {
+  width: 1596px;
+  height: 602px;
+  border: 2px black solid;
+  margin: auto;
+  background-color: #64646f33;
+}
+
+.containerSomeTextFirst {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(2, 1fr);
+  margin-bottom: 20px;
+}
+
+.containerSomeTextSecond {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+a {
+  position: relative;
+  text-decoration: none;
+  background-color: white;
+  font-family: "Fira Sans";
+  font-size: 20px;
+  padding: 20px;
+  color: #282626;
+  box-shadow: 2px 2px 2px 2px rgba(187, 178, 178, 0.1);
+}
+
+.item1,
+.item2 {
+  height: 235px;
+}
+
+.item3,
+.item4,
+.item5,
+.item6,
+.item7,
+.item8 {
+  height: 110px;
+}
+
+.containerDataId {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  font-family: "Montserrat";
+  font-size: 14px;
+  color: #767676;
+}
+.date1 {
+  margin-left: 500px;
+}
+.date2 {
+  margin-left: 230px;
+}
