@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fuse8/static/css/main.7dd3591c.css",
+    "main.js": "/fuse8/static/js/main.c94ef7f8.js",
+    "static/js/453.c722ab05.chunk.js": "/fuse8/static/js/453.c722ab05.chunk.js",
+    "index.html": "/fuse8/index.html",
+    "main.7dd3591c.css.map": "/fuse8/static/css/main.7dd3591c.css.map",
+    "main.c94ef7f8.js.map": "/fuse8/static/js/main.c94ef7f8.js.map",
+    "453.c722ab05.chunk.js.map": "/fuse8/static/js/453.c722ab05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd3591c.css",
+    "static/js/main.c94ef7f8.js"
+  ]
+}
